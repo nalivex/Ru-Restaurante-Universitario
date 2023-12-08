@@ -1,5 +1,6 @@
 
 package ru;
+import ru.Classes.BD;
 import java.sql.*;
 
 public class Ru {

@@ -1,4 +1,4 @@
-package ru;
+package ru.Classes;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

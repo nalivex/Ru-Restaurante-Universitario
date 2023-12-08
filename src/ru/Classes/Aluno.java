@@ -1,4 +1,4 @@
-package ru;
+package ru.Classes;
 
 public class Aluno {
     private int matricula;

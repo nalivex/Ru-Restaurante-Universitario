@@ -1,4 +1,4 @@
-package ru;
+package ru.Classes;
 
 public class Funcionario {
     private int masp;
